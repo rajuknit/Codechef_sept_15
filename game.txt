@@ -1,0 +1,39 @@
+7
+1 1
+o
+2 2
+oo
+oo
+3 3
+o#o
+oo#
+#oo
+6 4
+o#oo
+o###
+o#o#
+o###
+o###
+oooo
+6 4
+o#oo
+o#o#
+o#o#
+o###
+o###
+oooo
+6 6
+o#####
+o#oooo
+o#####
+o####o
+o#####
+oooooo
+7 6
+o##oo#
+o#####
+o#oooo
+o#####
+o####o
+o#####
+oooooo
